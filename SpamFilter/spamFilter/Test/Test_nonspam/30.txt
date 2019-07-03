@@ -1,0 +1,10 @@
+Tài liệu Internet Of Things cơ bản tiếng Việt
+
+Xin chào bạn,
+
+  Ebook Tiếng Việt "Internet Of Things cơ bản" đầu tiên tại Việt Nam  đã được phát hành miễn phí cho tất cả mọi người, phiên bản 1.0.
+
+Nội dung Ebook đặt trọng tâm vào các kiến thức cần phải nắm rõ để làm các sản phẩm Internet vạn vật (IoT) bao gồm phần lớn các chuẩn kết nối phổ biến cho #IoT như HTTP, MQTT, Web Socket thông qua IP network over WiFi.
+Các ngôn ngữ, công cụ phổ biến được hướng dẫn cơ bản như C/C++, NodeJS/Javascript, HTML, CSS
+Các vấn để quan trọng trong việc phát hành 1 ứng dụng, sản phẩm IoT như: OTA, Cấu hình WiFi thiết bị, khởi động 1 Web Server
+Các ứng dụng mẫu như: Xem giá bitcoin, Log nhiệt độ, độ ẩm và điều khiển thiết bị qua Internet

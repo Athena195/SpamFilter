@@ -1,0 +1,42 @@
+VÒNG LOẠI - ACM PTIT 2018 - 7h30 Sáng thứ 7 (21/4/2018)
+
+Chào các bạn,
+
+Sáng mai sẽ diễn ra vòng loại ACM PTIT 2018. Mình cung cấp thêm một số thông tin để các bạn nắm được.
+
+1. Về THỜI GIAN
+- 7h20 đến 7h45: Chụp ảnh check-in tại tầng 1 nhà A3. Sẽ có sẵn một backdrop lớn và một vài nhiếp ảnh gia hỗ trợ các đội chụp ảnh.
+Chú ý: việc chụp ảnh giống như xác nhận có đến thi. Các bạn nên đến sớm và chụp lúc đầu giờ. Nếu vì lý do nào đó đến muộn và quá sát giờ thi chính thức thì có thể chụp sau khi thi xong.
+- 7h45: Gọi các đội vào phòng thi theo danh sách.
+- 8h đến 11h: Thi chính thức
+
+2. Về DANH SÁCH THI và CÔNG CỤ
+Các bạn xem kỹ danh sách được gửi kèm theo để biết thứ tự của team mình. Đó cũng là account đăng nhập của các bạn. Mật khẩu sẽ được phát trước khi tính giờ 10 phút.
+Chúng ta sẽ có 10 phòng thi. Chiều nay mới sắp xếp chỗ ngồi chính thức. Quy tắc: các số thự tự nhỏ đến lớn sẽ được xếp dần vào các phòng từ số nhỏ đến lớn của tầng 4 rồi đến tầng 5 rồi đến tầng 6. Tất cả đều sẽ phải làm bài trên máy tính của phòng thực hành, không sử dụng laptop.
+
+Công cụ PC2 đã để bên ngoài màn hình. Các bạn có thể sẽ phải chỉnh sửa lại cấu hình PC2 một chút để phù hợp với hệ thống kết nối tại các phòng thực hành. Cụ thể sẽ ghi rõ trong tờ hướng dẫn (phát lúc đầu giờ cùng với mật khẩu đăng nhập).
+Các IDE cũng đã được cài đặt đầy đủ, và bộ cài (nếu các bạn cần) có thể tìm thấy ở ổ đĩa E trong máy tính.
+
+Chú ý: Các team của PTIT HCM có thể tham gia làm bài cùng PTIT HN nếu muốn. Sẽ gửi đề và mật khẩu qua email.
+
+3. Về QUY CHẾ THI
+Các đội phải có từ 2 thành viên trở nên tham gia làm bài thì mới được công nhận kết quả. Nên có đủ cả ba thành viên. Nếu thiếu 1 thì nên báo cho thầy (nguyenmanhson@gmail.com) được biết trước thông tin. Nếu thiếu 2 trở lên thì coi như bỏ thi.
+
+Thí sinh tuyệt đối không sử dụng điện thoại di động, USB và Internet trong thời gian thi. Mọi hỏi đáp nếu cần thì hỏi giám thị hoặc sử dụng tính năng Clar của PC2 để hỏi Admin. Tuyệt đối không trao đổi hoặc gây ảnh hưởng với các đội khác.
+
+Sau khi thi xong, BTC sẽ dựa trên kết quả để chọn ra khoảng 45 đội dự thi chung kết. Trong đó có xét ưu tiên cho các đội năm nhất (D17), các đội có cả ba thành viên là nữ hoặc các đội có cả ba thành viên đều là không chuyên tin (không học ngành CNTT hay ATTT).
+
+Ở vòng loại, sẽ không được sử dụng Team Notebook. Tức là các bạn không cần mang gì thêm vào phòng thi ngoại trừ thẻ sinh viên.
+
+4. Về ĐỀ THI
+Sẽ có 7 bài. Mức độ khó được xếp ngẫu nhiên.
+Trong các kỳ thi kiểu này thì yếu tố tốc độ và sự phối hợp nhịp nhàng giữa các thành viên trong đội sẽ có vai trò quyết định.
+
+Hầu hết các bài đều có thời gian giới hạn là 2s và có rất nhiều test. Nếu bài nào có giới hạn thời gian khác thì sẽ ghi rõ trên đề bài.
+
+Do có nhiều đội nên có thể tại một số thời điểm quá nhiều submit cùng đến server một lúc và việc trả kết quả sẽ bị chậm. Các bạn cứ bình tĩnh làm các bài khác trong thời gian chờ đợi phản hồi từ server chấm.
+
+Nên nhớ việc chụp ảnh đầu giờ và chia sẻ cảm xúc sau khi thi xong cũng là một phần quan trọng của cuộc thi này.
+Khi đã nỗ lực hết sức, quyết tâm vượt qua giới hạn của bản thân và phối hợp ăn ý với đồng đội thì việc gì cũng có thể làm được.
+
+Chúc các bạn thành công!

@@ -1,0 +1,26 @@
+TẬP LUYỆN ACM PTIT 2018 - Ngày 14 và 15/4
+
+Chào các bạn,
+
+Các bạn nhận được email này vì đã đăng ký email vào danh sách tham dự ACM PTIT 2018. Mình gửi trong file kèm theo:
+
+https://www.dropbox.com/s/qqbs1jvk16jexnk/LuyentapACMPTIT.rar
+
+1. Danh sách Team cho vòng tập luyện này. Các bạn chịu khó tìm thứ tự của team mình nhé.
+Account đăng nhập đang để mặc định. Tức là nếu team bạn có thứ tự X thì account đăng nhập sẽ là
+Name: teamX
+Pass:  teamX
+Nên đổi password ngay trong lần đăng nhập đầu tiên.
+
+
+2. Công cụ pc2Client. Các bạn giải nén sau đó chạy file pc2team.bat trong thư mục bin để đăng nhập. Chú ý cần phải cài JDK để có thể chạy được công cụ này. Nên để thư mục pc2Client này ở ổ đĩa gốc, đảm bảo đường dẫn đến nó không có dấu.
+
+3. Đề bài vòng tập luyện. Thời gian làm bài sẽ bắt đầu từ 19h tối nay và kéo dài hết đêm mai. Có 10 bài với mức độ khó sẽ tương đương với Vòng loại vào Thứ 7 tuần sau. Các bạn nên cố gắng tập luyện và làm nhiều nhất có thể.
+
+MỘT SỐ THÔNG TIN THÊM:
+Bảng xếp hạng: http://203.162.88.119/scoreboard
+Fanpage trao đổi, hỏi đáp: https://www.facebook.com/ACM.PTIT.2013/
+
+Mọi thắc mắc về cách thức đăng nhập hoặc có vấn đề gì đó với account, các bạn có thể trao đổi trên fanpage hoặc email lại cho mình.
+
+Chúc vui vẻ!

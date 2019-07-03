@@ -1,0 +1,48 @@
+[SVMC_Internship] Thư mời tham gia vòng Bài Test phân loại trình độ
+Thân gửi Ứng viên,
+
+V/v: Mời tham gia Bài Test phân loại trình độ vị trí Thực tập sinh (Internship).
+
+
+
+Trung tâm Nghiên cứu và Phát triển ĐTDĐ Samsung Việt Nam SVMC chúc mừng bạn đã vượt qua hàng ngàn ứng viên đến từ các Trường Đại học, Học viện hàng đầu cả nước.
+
+Chúng tôi trân trọng gửi tới bạn lời mời tham gia bài Kiểm tra phân loại trình độ đầu vào cho vị trí Thực tập sinh - Internship.
+
+◎ Thông tin chi tiết vòng thi này như sau:
+
+- Thời gian:                  09:10 ngày 12/05/2019 (Chủ Nhật).
+
+- Địa điểm:                  Tòa nhà PVI, số 1 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, HN
+
+- Số Báo danh:            Sẽ gửi tới bạn qua email sau & tin nhắn SMS (Bao gồm phòng thi chi tiết).
+
+- Thông tin về bài thi:
+
+                        Hình thức: 03 bài thi Lập trình bằng Tiếng Việt, mức độ từ RẤT DỄ (VD: in ra màn hình hoặc tính tổng 2 số, toán học cơ bản, xử lý mảng cơ bản), mức độ DỄ & mức độ TRUNG BÌNH. Làm trên máy tính của SVMC.
+
+                        Thời gian làm bài: 70 phút (3 bài), không tính thời gian hướng dẫn.
+
+Ngôn ngữ lập trình: Một trong 3 ngôn ngữ là C/C++/Java
+
+                        Công cụ lập trình (IDE): Visual studio 2010/2012; Eclipse.
+
+◎  Để xác nhận tham dự hoặc không, vui lòng xác nhận qua link sau (Bắt buộc) – Những ứng viên không xác nhận không được tham dự thi: http://bit.ly/2J97bnR
+
+
+
+◎ Yêu cầu đối với ứng viên
+
+- Có mặt đúng giờ và làm các thủ tục an ninh theo hướng dẫn.
+
+- Không đi dép lê, không mang các thiết bị điện tử, các thiết bị lưu trữ, các thiết bị phần cứng, laptop, trừ điện thoại di động.
+
+- Mang theo các loại giấy tờ gốc bao gồm: CMND, hoặc thẻ Sinh viên. KHÔNG gửi CMND cho bảo vệ của tòa nhà.
+
+◎  Mọi ý kiến thắc mắc, phản hồi, vui lòng liên hệ để được giải đáp:
+
+- Mr. Hoàng Trọng Tuấn: 0912.406.001  – ht.tuan@samsung.com
+
+- Mr. Nguyễn Ngọc Tú: 0888.99.00.81 – tu.nn2@samsung.com
+
+Chúc bạn thành công

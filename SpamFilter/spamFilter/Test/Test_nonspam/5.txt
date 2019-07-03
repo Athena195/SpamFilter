@@ -1,0 +1,10 @@
+CNPM: kết quả sau tuần 11
+
+Hi all,
+1.Thầy gửi cho các bạn kết quả sau tuần 11 trong file đính kèm.
+
+2. Link tham khảo code phần JUnit test:
+https://softwaredesign.home.blog/tutorials/simple-junit-test-with-boundary-testing-strategy/
+https://softwaredesign.home.blog/tutorials/junit-test-with-dao-data-access-object-class/
+
+Chúc các bạn vui vẻ!

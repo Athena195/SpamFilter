@@ -1,0 +1,27 @@
+Về lịch trình Kỳ thi ICPC PTIT 2019
+
+Chào các bạn,
+
+Mình xin note lại các thông tin về lịch trình cuộc thi như sau:
+
+THỬ MÁY:
+ - Từ 14h đến 16h ngày thứ 6 (19/04/2019)
+-  Các team nên có mặt đầy đủ từ 13h45 và thực hiện các thủ tục sau:
++ Bắt thăm vị trí thi đấu
++ Nhận áo thi đấu, thẻ dự thi
++ Thử làm bài và test hệ thống
++ Chụp ảnh
++ Nộp lại team notebook (nếu muốn có tài liệu sử dụng trong lúc thi). Gồm tối đa 25 tờ A4 (in 1 mặt hay 2 mặt tùy ý).
+Nhớ mang theo 01 laptop duy nhất sẽ sử dụng làm máy thi đấu của mình. Nhớ cài đặt các phần mềm liên quan. Tải pc2 về máy mình từ địa chỉ: http://acm.ptit.edu.vn/pc2.rar
+
+THI CHÍNH THỨC - Ngày thứ 7 (20/04/2019)
+- Sinh viên có mặt tại khu vực thi từ 7h20. Nhớ mặc áo thi đấu.
+- Gửi balo, điện thoại. Chỉ mang theo thẻ dự thi, bút.
+- Các team sẽ được phát 1 tờ thông tin đăng nhập và sử dụng công cụ PC2 để đăng nhập hệ thống.
+- 7h55: Phát đề.
+- 8h đến 12h: thi chính thức
+Bảng xếp hạng sẽ đóng trong 40 phút cuối.
+
+Có gì chưa rõ các bạn cứ trao đổi nhé.
+Hẹn gặp tất cả các bạn trong buổi chiều thứ 6 nhé.
+Chúc thành công!

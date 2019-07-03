@@ -1,0 +1,3 @@
+Hỏi về việc báo cáo BTL môn VXL(ptit)
+Em chào em là Nguyễn Thị Ánh học nhóm 6 , nhóm em đăng kí làm báo cáo là làm mạch thật đo nhiệt độ và độ ẩm môi trường , em muốn hỏi thầy là chúng em có thể sử dụng mạch arduino được không .
+Em cảm ơn thầy

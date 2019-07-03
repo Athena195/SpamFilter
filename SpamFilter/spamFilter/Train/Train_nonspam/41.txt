@@ -1,0 +1,6 @@
+code C về cộng, trừ, nhân mà trận và ma trận chuyển vị
+
+Thưa thầy,
+Em là Nguyễn Thị Thanh Tâm. Lớp D16 CN3.
+Em đã tìm hiểu và code về cộng, trừ, nhân mà trận và ma trận chuyển vị.
+Mong thầy xem xét và kiểm tra để e được điểm cộng môn đại số ạ.
